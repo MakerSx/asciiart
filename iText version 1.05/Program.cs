@@ -7,7 +7,7 @@ using VideoCapture = Emgu.CV.VideoCapture;
 
 
 
-//using AForge.Video.DirectShow;
+
 
 
 namespace iText_version_1._05
