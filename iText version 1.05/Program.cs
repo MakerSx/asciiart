@@ -24,7 +24,7 @@ namespace iText_version_1._05
             string asciiChars = " .,:;asdfghjklşiqwertyuıopzxcvbnmöç-+*";
 
             
-            var capture = new VideoCapture("D:\\Masaüstü\\vid3test.mp4");
+            var capture = new VideoCapture("videokonumu");
             var img=new Mat();
             StringBuilder sb = new StringBuilder();
             while (capture.IsOpened)
